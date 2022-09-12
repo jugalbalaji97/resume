@@ -1,0 +1,37 @@
+body {
+  background-color: #E9DAC1;
+  padding: 25px;
+}
+
+header {
+  background-color: #B7E5DD;
+  padding: 25px;
+  border-radius: 25px;
+}
+
+main {
+  background-color: #F7ECDE;
+  padding: 25px;
+  border-radius: 25px;
+}
+
+footer {
+  background-color: #B7E5DD;
+  padding: 25px;
+  border-radius: 25px;
+}
+
+hr {
+  border-style: None;
+  border-top-style: dashed;
+  border-width: 2px;
+  width: 90%;
+}
+
+h1{
+  color: #1D5C63;
+}
+
+h2{
+  color: #472D2D;
+}
